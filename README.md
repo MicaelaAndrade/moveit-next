@@ -76,9 +76,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Aplicação** (**[React](https://reactjs.org/)** + **[Next.js](https://nextjs.org/)** + **[TypeScript](https://www.typescriptlang.org/)**)
 
-- **[js-cookie](https://github.com/js-cookie/js-cookie#readme)**
-
-> Veja o arquivo [package.json](https://github.com/BrunoSaibert/move.it/blob/main/package.json)
 
 #### **Utilitários**
 
