@@ -2,21 +2,15 @@
 
 
 <h4 align="center">
-	💪🏻  Move.it  💪🏻
+	💪🏻  Moveit 💪🏻
 </h4>
 
-<p align="center">
- <a href="#--sobre-o-projeto">Sobre</a> •
- <a href="#-%EF%B8%8F-funcionalidades">Funcionalidades</a> •
- <a href="#--como-executar-o-projeto">Como executar</a> •
- <a href="#--tecnologias">Tecnologias</a>•
-</p>
 
-![](https://raw.githubusercontent.com/BrunoSaibert/move.it/main/public/screenshot.jpg)
+![](https://user-images.githubusercontent.com/53954022/109358823-243cec80-7863-11eb-8d70-596def0f02c2.png)
 
 Veja a [demonstração](https://moveit-saibert.vercel.app/).
 
-## [](https://github.com/BrunoSaibert/move.it#--sobre-o-projeto) 💻 Sobre o projeto
+##  💻 Sobre o projeto
 
 A aplicação desenvolvida é um cronômetro para utilizar a técnica [pomodoro](https://g.co/kgs/nRFQEo) para que ao final de cada ciclo de foco, o usuário receba um desafio de um exercício, para ajudar a diminuir as chances do usuário sofre uma lesão por falta de se movimentar durante o uso prolongado do computador.
 
@@ -55,7 +49,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:BrunoSaibert/move.it.git
+$ git clone github.com/MicaelaAndrade/moveit-next
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd move.it
@@ -76,7 +70,7 @@ $ yarn dev
 
 ---
 
-## [](https://github.com/BrunoSaibert/move.it#--tecnologias) 🛠 Tecnologias
+## 👩‍💻  Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -95,11 +89,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-## [](https://github.com/BrunoSaibert/move.it#--autor) 👨‍🚀 Autor
 
-<a href="https://brunosaibert.com.br/">
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/40339324?s=460&u=4f5a7b83aa4e018b4eccbeaa1f6a6b8b04e0e4b7&v=4" width="100px;" alt="Bruno Henrique Saibert"/>
- <br />
- <sub><b>Bruno Henrique Saibert</b></sub></a>
- <br />
 
